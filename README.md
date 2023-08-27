@@ -1,7 +1,8 @@
 # Projeto Aplicado sobre ODS-12 "Consumo e Produção Responsáveis"
+## Comparação de Empresa do índice ICO2 com empresas do mesmo setor fora do índice. Uma visão financeira. 
 Github do Projeto Aplicado I do curso de Ciência de Dados 
 
-# Os membros deste projeto são:
+### Os membros deste projeto são:
 - EDUARDO DE PASSOS / 23009128 / eduardo.passos@mackenzista.com.br 
 - ISAQUE PIMENTEL / 23018313 / 10923018313@mackenzista.com.br
 - HELENA ISOLA GUIMARÃES / 23009136 / helena.guimaraes@mackenzista.com.br
