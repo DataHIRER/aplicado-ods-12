@@ -1,4 +1,4 @@
-# Comparação de Empresa do índice ICO2 com empresas do mesmo setor fora do índice. Uma visão financeira. 
+#UM ESTUDO COMPARATIVO ENTRE EMPRESAS QUE COMPÕEM O ÍNDICE DE CARBONO EFICIENTE ICO2 B3 E EMPRESAS DE UM MESMO SETOR QUE NÃO O COMPÕEM - UMA VISÃO SOB O ASPECTO FINANCEIRO. 
 
 ## Projeto Aplicado sobre ODS-12 "Consumo e Produção Responsáveis"
 ## **Os membros deste projeto são:**
