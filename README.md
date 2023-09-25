@@ -21,3 +21,5 @@ Outro componente crucial do projeto envolve uma análise setorial detalhada, com
 <!-- ## **Dados utilizados e ferramentas necessárias** -->
 
 
+**Dependências**
+- rpy2: para rodar o arquivo r a partir do script em python
