@@ -1,0 +1,87 @@
+Codigo,Acao,Setor,ico2
+WEGE3,WEG,Bens Indls / Maqs e Equips,1
+EMBR3,EMBRAER,Bens Indls / Mat Transporte,1
+AZUL4,AZUL,Bens Indls/Transporte,1
+CCRO3,CCR SA,Bens Indls/Transporte,1
+GOLL4,GOL,Bens Indls/Transporte,1
+RAIL3,RUMO S.A.,Bens Indls/Transporte,1
+BRFS3,BRF SA,Cons N  Basico / Alimentos Processados,1
+JBSS3,JBS,Cons N  Basico / Alimentos Processados,1
+MRFG3,MARFRIG,Cons N  Basico / Alimentos Processados,1
+BEEF3,MINERVA,Cons N  Basico / Alimentos Processados,1
+SMTO3,SAO MARTINHO,Cons N  Basico / Alimentos Processados,1
+ABEV3,AMBEV S/A,Cons N Ciclico / Bebidas,1
+ASAI3,ASSAI,Cons N Ciclico / Comercio Distr.,1
+CRFB3,CARREFOUR BR,Cons N Ciclico / Comercio Distr.,0
+PCAR3,P.ACUCAR-CBD,Cons N Ciclico / Comercio Distr.,1
+NTCO3,GRUPO NATURA,Cons N Ciclico / Pr Pessoal Limp,1
+RAIZ4,RAIZEN,Cons N Ciclico/Agropecuaria,1
+SLCE3,SLC AGRICOLA,Cons N Ciclico/Agropecuaria,1
+ARZZ3,AREZZO CO,Consumo Ciclico / Comercio,1
+BHIA3,CASAS BAHIA,Consumo Ciclico / Comercio,1
+SOMA3,GRUPO SOMA,Consumo Ciclico / Comercio,1
+LREN3,LOJAS RENNER,Consumo Ciclico / Comercio,1
+MGLU3,MAGAZ LUIZA,Consumo Ciclico / Comercio,1
+PETZ3,PETZ,Consumo Ciclico / Comercio,0
+ALPA4,ALPARGATAS,Consumo Ciclico / Tecid Vest Calc,0
+CYRE3,CYRELA REALT,Consumo Ciclico/Constr Civil,0
+EZTC3,EZTEC,Consumo Ciclico/Constr Civil,1
+MRVE3,MRV,Consumo Ciclico/Constr Civil,1
+CVCB3,CVC BRASIL,Consumo Ciclico/Viagens e Lazer,0
+COGN3,COGNA ON,Diversos,1
+RENT3,LOCALIZA,Diversos,1
+VAMO3,VAMOS,Diversos,1
+YDUQ3,YDUQS PART,Diversos,1
+ALSO3,ALIANSCSONAE,Financ e Outros / Explor Imoveis,0
+IGTI11,IGUATEMI S.A,Financ e Outros / Explor Imoveis,1
+MULT3,MULTIPLAN,Financ e Outros / Explor Imoveis,1
+BBDC3,BRADESCO,Financ e Outros / Interms Financs,1
+BBDC4,BRADESCO,Financ e Outros / Interms Financs,1
+BBAS3,BRASIL,Financ e Outros / Interms Financs,1
+BPAC11,BTGP BANCO,Financ e Outros / Interms Financs,1
+ITSA4,ITAUSA,Financ e Outros / Interms Financs,1
+ITUB4,ITAUUNIBANCO,Financ e Outros / Interms Financs,1
+SANB11,SANTANDER BR,Financ e Outros / Interms Financs,1
+BBSE3,BBSEGURIDADE,Financ e Outros / Previd  Seguros,0
+IRBR3,IRBBRASIL RE,Financ e Outros / Previd  Seguros,0
+B3SA3,B3,Financeiro e Outros/Servicos Financeiros Diversos,1
+CIEL3,CIELO,Financeiro e Outros/Servicos Financeiros Diversos,1
+DXCO3,DEXCO,Mats Basicos / Madeira e Papel,1
+KLBN11,KLABIN S/A,Mats Basicos / Madeira e Papel,1
+SUZB3,SUZANO S.A.,Mats Basicos / Madeira e Papel,1
+BRAP4,BRADESPAR,Mats Basicos / MinerAcao,0
+CMIN3,CSNMINERACAO,Mats Basicos / MinerAcao,1
+VALE3,VALE,Mats Basicos / MinerAcao,0
+BRKM5,BRASKEM,Mats Basicos / Quimicos,1
+GGBR4,GERDAU,Mats Basicos / Sid Metalurgia,1
+GOAU4,GERDAU MET,Mats Basicos / Sid Metalurgia,0
+CSNA3,SID NACIONAL,Mats Basicos / Sid Metalurgia,1
+USIM5,USIMINAS,Mats Basicos / Sid Metalurgia,1
+RRRP3,3R PETROLEUM,Petroleo/ Gas e Biocombustiveis,0
+CSAN3,COSAN,Petroleo/ Gas e Biocombustiveis,1
+PETR3,PETROBRAS,Petroleo/ Gas e Biocombustiveis,1
+PETR4,PETROBRAS,Petroleo/ Gas e Biocombustiveis,1
+RECV3,PETRORECSA,Petroleo/ Gas e Biocombustiveis,0
+PRIO3,PETRORIO,Petroleo/ Gas e Biocombustiveis,0
+UGPA3,ULTRAPAR,Petroleo/ Gas e Biocombustiveis,1
+VBBR3,VIBRA,Petroleo/ Gas e Biocombustiveis,1
+HYPE3,HYPERA,Saude/Comercio Distr.,1
+RADL3,RAIADROGASIL,Saude/Comercio Distr.,1
+FLRY3,FLEURY,Saude/SM Hosp An.Diag,1
+HAPV3,HAPVIDA,Saude/SM Hosp An.Diag,0
+RDOR3,REDE D OR,Saude/SM Hosp An.Diag,1
+LWSA3,LOCAWEB,Tec.InformAcao/Programas Servs,0
+TOTS3,TOTVS,Tec.InformAcao/Programas Servs,1
+VIVT3,TELEF BRASIL,TelecomunicAcao,1
+TIMS3,TIM,TelecomunicAcao,1
+SBSP3,SABESP,Utilidade Publica / Agua Saneamento,0
+CMIG4,CEMIG,Utilidade Publica / Energ Eletrica,1
+CPLE6,COPEL,Utilidade Publica / Energ Eletrica,1
+CPFE3,CPFL ENERGIA,Utilidade Publica / Energ Eletrica,1
+ELET3,ELETROBRAS,Utilidade Publica / Energ Eletrica,1
+ELET6,ELETROBRAS,Utilidade Publica / Energ Eletrica,1
+ENGI11,ENERGISA,Utilidade Publica / Energ Eletrica,1
+ENEV3,ENEVA,Utilidade Publica / Energ Eletrica,1
+EGIE3,ENGIE BRASIL,Utilidade Publica / Energ Eletrica,1
+EQTL3,EQUATORIAL,Utilidade Publica / Energ Eletrica,0
+TAEE11,TAESA,Utilidade Publica / Energ Eletrica,1
