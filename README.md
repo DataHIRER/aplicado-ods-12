@@ -22,4 +22,7 @@ Outro componente crucial do projeto envolve uma análise setorial detalhada, com
 
 
 **Dependências**
-- rpy2: para rodar o arquivo r a partir do script em python
+- seaborn: gráficos com python
+- matplotlib: gráficos com python
+- pandas: criação e manipulação de dataframes
+- yfinance: busca de dados sobre as ações
