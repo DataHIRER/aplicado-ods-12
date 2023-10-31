@@ -3,7 +3,7 @@
 ## Projeto Aplicado sobre ODS-12 "Consumo e Produção Responsáveis"
 ## **Os membros deste projeto são:**
 - Eduardo de Passos / 23009128 / eduardo.passos@mackenzista.com.br 
-- Isaque Pimentel / 23018313 / 10923018313@mackenzista.com.br
+- Isaque Pimentel / 23018313 / isaque.pimentel@mackenzista.com.br
 - Helena Isola Guimarães / 23009136 / helena.guimaraes@mackenzista.com.br
 - Raíssa da Veiga de Menêses / 2302349 / meneses.raissa@gmail.com
 - Roberto Natale Perotti Junior / 23004398 / robertoperotti@live.com
