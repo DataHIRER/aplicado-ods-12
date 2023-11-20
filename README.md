@@ -26,3 +26,8 @@ Outro componente crucial do projeto envolve uma análise setorial detalhada, com
 - matplotlib: gráficos com python
 - pandas: criação e manipulação de dataframes
 - yfinance: busca de dados sobre as ações
+
+**Apresentação do Estudo**
+
+A apresentação do trabalho foi disponibilizada no YouTube.
+Clique nesse [link](https://link-url-here.org) para acessar o vídeo.
