@@ -27,7 +27,12 @@ Outro componente crucial do projeto envolve uma análise setorial detalhada, com
 - pandas: criação e manipulação de dataframes
 - yfinance: busca de dados sobre as ações
 
-**Apresentação do Estudo**
+**Apresentação do Projeto**
 
-A apresentação do trabalho foi disponibilizada no YouTube.
+A apresentação do projeto foi disponibilizada no YouTube.
 Clique nesse [link](https://link-url-here.org) para acessar o vídeo.
+
+**Relatório do Projeto**
+
+Ao final do projeto, um relatório foi produzido e entregue para avaliação. Ele apresenta os elementos solicitados no início do projeto, como por exemplo, apresentação da organização, proposta analítica, análise exploratória de dado e os resultados pretendidos.
+Clique nesse [link](https://github.com/DataHIRER/projeto-aplicado-1/blob/main/Projeto%20Aplicado%20I%20-%20Final.pdf) para acessar a versão final do relatório.
