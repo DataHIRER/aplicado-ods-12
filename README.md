@@ -30,7 +30,7 @@ Outro componente crucial do projeto envolve uma análise setorial detalhada, com
 **Apresentação do Projeto**
 
 A apresentação do projeto foi disponibilizada no YouTube.
-Clique nesse [link](https://link-url-here.org) para acessar o vídeo.
+Clique nesse [link](https://youtu.be/DfspuEbcjAM) para acessar o vídeo.
 
 **Relatório do Projeto**
 
